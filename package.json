@@ -1,0 +1,26 @@
+{
+  "name": "node-wait",
+  "version": "0.1.0",
+  "description": "A node module to block js thread for given time",
+  "main": "lib/index.js",
+  "author": "themez <xian.zeng@ruguoapp.com>",
+  "keywords": [
+    "wait",
+    "block",
+    "sleep",
+    "time",
+    "delay"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "neon-cli": "^0.2.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  },
+  "homepage": "https://github.com/themez/node-wait",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themez/node-wait.git"
+  }
+}
